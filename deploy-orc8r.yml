@@ -7,10 +7,10 @@
     - role: kubernetes
     - role: openebs
     - role: metallb
-    - role: postgresql
-    - role: secrets
-    - role: orc8r
-    - role: haproxy
-    - role: elasticsearch
-    - role: fluentd
-    - role: dns
+#     - role: postgresql
+#     - role: secrets
+#     - role: orc8r
+#     - role: haproxy
+#     - role: elasticsearch
+#     - role: fluentd
+#     - role: dns
